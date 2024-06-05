@@ -1,0 +1,4 @@
+3
+Brasil;RONALDINHO Moreira Ronaldo de Assis;27;Centrocampista;1.76;75.0;15000.0;./data/imagenes/brasil/RONALDINHO Moreira Ronaldo de Assis.jpg
+Inglaterra;BECKHAM David;33;Centrocampista;1.8;72.0;20000.0;./data/imagenes/inglaterra/BECKHAM David.jpg
+Argentina;TEVEZ Carlos Alberto;23;Delantero;1.69;76.0;10000.0;./data/imagenes/argentina/TEVEZ Carlos Alberto.jpg

@@ -1,0 +1,4 @@
+Colombia;David Pekerman;./data/imagenes/colombia.jpeg
+United States;Gregg Berhalter;./data/imagenes/usa.jpeg
+Canada;John Herdman;./data/imagenes/canada.jpeg
+Nueva Zelanda;Jorge Ordones;./data/imagenes/nueva.jpeg

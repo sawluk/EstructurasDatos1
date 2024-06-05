@@ -1,0 +1,7 @@
+Reporte de discos
+=================
+Nombre: Confessions on a Dance Floor Artista: Madonna Genero: Pop Precio: 3600.0
+Nombre: Push the Button Artista: The Chemical Brothers Genero: Electrónica Precio: 4050.0
+Nombre: Is This It Artista: The Strokes Genero: Rock Precio: 3600.0
+Nombre: Elephant Artista: The White Stripes Genero: Rock Precio: 2600.0
+Nombre: Todo a su tiempo Artista: Marc Anthony Genero: Salsa Precio: 10.0

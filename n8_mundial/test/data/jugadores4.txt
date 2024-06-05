@@ -1,0 +1,4 @@
+3
+equipo20;jugador2;4;pos4;1.44;44.0;44000.4;imagen4
+equipo2;jugador3;4;pos6;1.66;66.0;66000.6;imagen6
+equipo3;jugador1;2;pos2;1.22;22.0;22000.2;imagen2
